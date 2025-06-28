@@ -3,9 +3,9 @@ A code for max7219 led matrix with a pi pico to act like the WOPR from WarGames.
 I saw a post on Reddit some time ago for a WOPR type light bar using a pi pico and a couple max7219 led matrix's. 
 I fell in love with what I saw and since the poster kindly gave his code out for free, I couldn't pass up the opportunity to try it for myself.
 From there I decided to add to that code relying heavily on help from ChatGPT. As such I am due ZERO credit for any of this.
-everyone else who's ever made a WOPR project before 6/27/25 deserves full credit. Also, I didn't code not a single line of code by myself. I let AI do that and just tweaked and massaged until I was satisfied.
-there is still tons of room to grow this project and I very much welcome everyone to either add your ideas, write additional code and share it, take the whole code and run with it.....it's free use. I just ask that you keep passing it along as free for everyone to enjoy also. This is the way. :)
-I will be tweaking the steps as I get better at this. Please forgive its my first Repo.
+Everyone else who's ever made a WOPR project before 6/27/25 deserves full credit. Also, I didn't code not a single line of code by myself. I let AI do that and just tweaked and massaged until I was satisfied.
+there is still tons of room to grow this project and I very much welcome everyone to either add your ideas, write additional code and share it, take the sound files and integrate them as part of the routine. Take the whole code and run with it.....it's free use. I just ask that you keep passing it along as free for everyone to enjoy also. This is the way. :)
+I will be tweaking the steps as I get better at this. Please forgive, its my first Repo.
 
 You need a Raspberry Pi Pico with headers.
 this particular project utilizes 2 max7219 led matrix's with 4 panels per board for a total of 8 panel or 8 x 64 LED's
